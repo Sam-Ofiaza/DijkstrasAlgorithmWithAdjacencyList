@@ -1,0 +1,5 @@
+4
+Dallas|Houston|T
+Chicago|Dallas|C
+Houston|Chicago|T
+Austin|Dallas|C
